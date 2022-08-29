@@ -1,0 +1,1 @@
+# yaml-for-swagger-codegen
